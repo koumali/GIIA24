@@ -12,7 +12,6 @@ title: Logistiques
 
 ### Livres
 
-#### Readings
 
 - [CN] [Linux Bible](https://www.amazon.fr/Linux-Bible-Christopher-Negus/dp/1119578884) : Bible complète pour la maitrise de linux
 <div class="center">

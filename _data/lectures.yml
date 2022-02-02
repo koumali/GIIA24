@@ -1,156 +1,23 @@
 - date: M 10/04
   lecturer: 
   title: > 
-    <strong>Course Overview</strong>
-  slides: 
-  # notes: https://anassbelcaid.github.io/CS311/overview/
-  notes : https://anassbelcaid.github.io/CS311/overview/
+    <strong>Introduction a Linux, Shell</strong>
+  slides: /presentations/intro/intro_linux.pdf
+  # notes : https://anassbelcaid.github.io/CS311/overview/
+  # notes  : intro
   readings:
-    - <a href="https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1898935-initiez-vous-a-qt"> Open classroom notes</a>
+    - <a href="https://fr.differbetween.com/article/difference_between_bsd_and_linux"> BSD Vs linux</a>
     - <a href="https://doc.qt.io/qt-5/gettingstarted.html"> Getting started with Qt </a>
     - <a href="https://zetcode.com/gui/qt5/strings/"> ZetCode String tutorial </a>
     - <a href="https://zetcode.com/gui/qt5/containers/"> ZetCode container tutorial </a>
   topics:
-    - Qt Library
-    - Containers
-    - Qmake
+    - Shell linux
+    - Logiciel libre
+    - Licences
   homework:
     <a href="https://anassbelcaid.github.io/CS311/feetWet/"> Feet Wet </a>
 
-# - date: M 10/11
-#   lecturer:
-#   title: >
-#     <strong>C++ Inheritance </strong>
-#   slides: 
-#   video: 
-#   # notes : http://127.0.0.1:4000/inheritance/
-#   notes : https://anassbelcaid.github.io/CS311/inheritance/
-#   readings:
-#     - G Chapter 10.
-#     - <a href="https://en.wikipedia.org/wiki/C%2B%2B11#Object_construction_improvement"> C++ Inheritance Spec</a>
-#     - <a href="https://www.tutorialspoint.com/uml/uml_class_diagram.htm"> Class Diagram Tutorial</a>
-#     - <a href="https://www.learncpp.com/cpp-tutorial/constructors-and-initialization-of-derived-classes"> More on Constructors </a>
-#     - <a href="https://data-flair.training/blogs/inheritance-in-cpp"> Types of Inheritance </a>
-
-#     # - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
-#     # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-#     # - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-#     # - De Haan et al. <a href="https://arxiv.org/abs/1905.11979" target="_blank">Causal Confusion in Imitation Learning</a>
-#   topics:
-#     - Inheritance
-#     - Special keys
-#     - Drawbacks
-#   homework:
-#     <a href="https://anassbelcaid.github.io/CS311/hslaimages/"> HSLA Images </a>
-
-
-# - date: M 10/18
-#   lecturer:
-#   title: >
-#     <strong>Polymorphism and Abstraction</strong>
-#   slides: 
-#   video: 
-#   notes: https://anassbelcaid.github.io/CS311/polymorphism/
-#   readings:
-#     - G Chapter 10.
-#     - <a href="https://www.cplusplus.com/doc/oldtutorial/typecasting/"> Type Casting </a>
-#     - <a href="https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes/Abstract_Classes"> Abstract classes </a>
-#     - <a href="https://www.udacity.com/blog/2021/07/understanding-polymorphism-in-cpp.html"> Polymorphism tutorial </a>
-#   topics:
-#     - Pointers
-#     - virtual methods
-#     - Abstraction
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/shapes/"> Drawing shapes </a>
-
-# - date: M 10/25
-#   lecturer:
-#   title: >
-#     <strong> Widgets and  Layouts</strong>
-#   slides: 
-#   video: 
-#   notes : https://anassbelcaid.github.io/CS311/layouts/
-#   readings:
-#     # - <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target=  "_blank">Amazon EC2 Basics</a>
-#     # - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
-#     # - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
-#     # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
-#     - <b>(BS)  chapter 1</b>
-#     - <a href="https://wiki.qt.io/Qt_for_Beginners"> Qt for beginner </a>
-#     - <a href="https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1900446-positionnez-vos-widgets-avec-les-layouts"> Open Classroom, layout </a>
-#     - <a href="https://zetcode.com/gui/qt5/layoutmanagement/"> ZetCode layouts </a>
-
-#   topics:
-#     - Qmake project
-#     - Basic Widgets
-#     - Layouts
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/forms/"> Fun with Layouts </a>
-
-
-# - date: M 11/01
-#   lecturer:
-#   title: >
-#     <strong> Signals and Slots</strong>
-#   slides: 
-#   video: 
-#   notes: https://anassbelcaid.github.io/CS311/signals/
-#   readings:
-#     - <b>(BS) Chapter 2-2</b>
-#     - <a href="https://doc.qt.io/qt-5/signalsandslots.html"> Official documentation </a>
-#     - <a href="https://zetcode.com/gui/qt5/eventsandsignals/"> ZetCode Tutorial </a>
-#     - <a href="http://guillaume.belz.free.fr/doku.php?id=les_signaux_et_slots_dans_qt5"> French Tutorial </a>
-#     # - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
-#     # - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
-#   topics: 
-#     - Signals
-#     - Click events.
-#     - Mouse Events.
-#     - Timer events.
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/calculator/"> Calculator </a>
-
-# - date: W 10/11
-#   lecturer:
-#   title: >
-#     <strong> Rapid Dialog Design</strong>
-#   slides:  
-#   video: 
-#   notes: https://anassbelcaid.github.io/CS311/designer/
-#   readings:
-#     - <b> BS Ch2.3 - 2.5 </b>
-#     - <a href="https://doc.qt.io/qt-5/qtdesigner-manual.html"> Qt Designer Manual </a>
-#   topics:
-#     - Qt Designer
-#     - Qdialogs
-#     - Custom Dialogs
-#     - Rapid Dialogs
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/rapidgui/"> Rapid Dialogs</a>
-
-
-# - date: M 11/15
-#   lecturer:
-#   title: >
-#     <strong> Creating main windows</strong>
-#   slides: 
-#   video: 
-#   notes: https://anassbelcaid.github.io/CS311/mainWindow/
-#   readings:
-#     - <b> BS Chapter 3 </b>
-#     - <a href="https://zetcode.com/gui/qt5/menusandtoolbars/"> ZetCode tutorial </a>
-#     - <a href="https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1901168-configurez-la-fenetre-principale">
-#       French Tutorial </a>
-#   topics:
-#     - QMainWindow
-#     - Menus
-#     - Actions
-#     - Status Bar
-#     - Dialogs
-
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/spreadsheet/"> SpreadSheet</a>
-
+- date
 # - date: F 11/28
 #   lecturer:
 #   title: >

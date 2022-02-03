@@ -2,20 +2,19 @@
   lecturer: 
   title: > 
     <strong>Introduction a Linux, Shell</strong>
-  slides: /presentations/intro/intro_linux.pdf
+  slides: presentations/intro/intro_linux.pdf
   # notes : https://anassbelcaid.github.io/CS311/overview/
   # notes  : intro
   readings:
     - <a href="https://fr.differbetween.com/article/difference_between_bsd_and_linux"> BSD Vs linux</a>
-    - <a href="https://doc.qt.io/qt-5/gettingstarted.html"> Getting started with Qt </a>
-    - <a href="https://zetcode.com/gui/qt5/strings/"> ZetCode String tutorial </a>
-    - <a href="https://zetcode.com/gui/qt5/containers/"> ZetCode container tutorial </a>
   topics:
     - Shell linux
     - Logiciel libre
     - Licences
   homework:
-    <a href="https://anassbelcaid.github.io/CS311/feetWet/"> Feet Wet </a>
+    # <a href="https://anassbelcaid.github.io/CS311/feetWet/"> Installation Linux </a>
+    # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
+    <a href="http://127.0.0.1:4000/installation/"> Installation Linux </a>
 
 - date
 # - date: F 11/28

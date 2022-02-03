@@ -27,8 +27,8 @@ d'authentification.
 
 ***
 
-- **Planing:** not decided yet
-- **Location:** ENSA / ???.
+- **Planing:** Vendredi 08:00-12:00
+- **Location:** ENSA / Atelier 4.
 - **Discussion and QA:** [Piazza](){:target="\_blank"}
 <!-- - **HW submission:** [Gradescope](https://www.gradescope.com/courses/56699){:target="\_blank"} and [Autolab](https://autolab.andrew.cmu.edu/courses/10703-f19){:target="\_blank"} -->
 <!-- - **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=31ef94d5-b20b-416f-9073-aaaf0125efa8){:target="\_blank"} and recorded as well. -->

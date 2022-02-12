@@ -20,8 +20,8 @@
   lecturer:
   title: >
     <strong>Interfaces graphiques</strong>
-  video: 
-  notes:
+#   video: 
+#   notes:
   slides: ../presentations/gui/gui.pdf
   readings:
     - <a href="https://www.gnome.org/">Projet Gnome</a>
@@ -34,8 +34,10 @@
     -  DE
     -  Changer DE
     
+  homework:
+    # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
+    <a href="http://127.0.0.1:4000/gnome/"> Installation Gnome </a>
 
-  # homework:
 
 - date: 
 #   lecturer:

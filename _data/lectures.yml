@@ -16,7 +16,9 @@
     # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
     <a href="http://127.0.0.1:4000/installation/"> Installation Linux </a>
 
-- date: F 11/28
+ 
+
+- date: F 18/04
   lecturer:
   title: >
     <strong>Interfaces graphiques</strong>
@@ -38,29 +40,34 @@
     # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
     <a href="http://127.0.0.1:4000/gnome/"> Installation Gnome </a>
 
+ 
 
-- date: 
-#   lecturer:
-#   title: >
-#     <strong>Containers and the MVC Model</strong>
-#   slides: 
+- date: F 25/04
+  lecturer:
+  title: >
+    <strong> Systèmes de fichiers</strong>
 #   video: 
-#   notes: widgets2
-#   readings:
-#     - <a href="https://doc.qt.io/archives/qt-4.8/model-view-programming.html"> The Model view paradigm </a>
-#     - <a href="https://zetcode.com/gui/qt5/widgets2/"> ZetCode simple survey </a>
-#     - <a href="https://www.bogotobogo.com/Qt/Qt5_QListView_QStringListModel_ModelView_MVC.php"> QListView </a>
-#     - <a href="http://tvaira.free.fr/dev/qt/qt-modelview.pdf" > MVC French Tutorial </a>
-#   topics:
-#     - Model  views
-#     - Containers
-#     - Item views 
-#     - MVC
+#   notes:
+  slides: ../presentations/filesystem/filesystem.pdf
+  readings:
+    - <a href="https://blog.eldernode.com/how-are-bsd-unix-and-linux-different/">BSD-Unix-Linux</a>
+    - <a href="https://distrowatch.com/">Distrowatch </a>
+    - <a href="https://jean-luc-massat.pedaweb.univ-amu.fr/ens/asr/cours-linux/systemes-fichiers.html"> Système de fichiers </a>
+    - <a href="https://www.nextinpact.com/article/44190/du-ps1-a-oh-my-bashzshposh-personnalisez-votre-terminal-et-rendez-le-plus-utile" > Personnaliser son shell </a>
+  topics:
 
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/todoapp/"> ToDo Application</a>
+    -  Unix
+    -  BSD
+    -  Distributions
+    -  File System
+    
+  homework:
+    # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
+    <a href="http://127.0.0.1:4000/filesystem/"> Système de fichiers. </a>
 
-# - date: W 01/05
+-
+
+# - date: 
 #   lecturer:
 #   title: >
 #     <strong>QPainter</strong>

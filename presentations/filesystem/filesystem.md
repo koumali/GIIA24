@@ -329,6 +329,7 @@ Il existe plusieurs types de shell. Chacun possède un ensemble de **caractéris
 
 
 <style scoped>
+
 p,table {
     width: 80%;
     font-size: 25px;

@@ -65,30 +65,31 @@
     # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
     <a href="http://127.0.0.1:4000/filesystem/"> Système de fichiers. </a>
 
+
+- date: F 31/04
+  lecturer:
+  title: >
+    <strong> Commandes basiques</strong>
+  slides: ../presentations/shell01/shell01.pdf
+  video: 
+  notes: 
+  readings:
+    - <a href="https://www.ionos.fr/digitalguide/serveur/configuration/commande-find-sous-linux/" target="_blank"> Commande find linux </a>
+    - <a href="https://www.tecmint.com/tldr-easy-to-understand-linux-man-pages/"> TLDR linux </a>
+    - <a href="https://doc.ubuntu-fr.org/locate"> Utilisation de locate</a>
+    - <a href="https://www.malekal.com/la-commande-date-linux-utilisations-et-exemples/"> utilisation de date </a>
+
+  topics:
+    - Utilisation man
+    - Information système
+    - Recherche fichiers
+
+
+  homework:
+    # - <a href="https://anassbelcaid.github.io/CS311/colliding/"> Colliding Mices</a>
+    - <a href="http://127.0.0.1:4000/shell01/"> commandes basiques. </a>
+
 -
-
-# - date: 
-#   lecturer:
-#   title: >
-#     <strong>QPainter</strong>
-#   slides: 
-#   video: 
-#   notes: painting
-#   readings:
-#     - <b> BS Chapter 8 </b>
-#     - <a href="https://doc.qt.io/qt-5/qpainter.html" target="_blank"> QPainter </a>
-#     - <a href="https://zetcode.com/gui/qt5/painting/"> ZetCode Tutorial </a>
-#     - <a href="https://qt.developpez.com/doc/4.7/qpainter/"> French Tutorial</a>
-
-#   topics:
-#     - drawing objects
-#     - Shape transformation
-#     - Pens and Bruches
-
-
-#   homework:
-#     - <a href="https://anassbelcaid.github.io/CS311/colliding/"> Colliding Mices</a>
-
 # - 
 # # - date: F 09/20
 # #   lecturer:

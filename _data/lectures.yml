@@ -2,7 +2,7 @@
   lecturer: 
   title: > 
     <strong>Introduction a Linux, Shell</strong>
-  slides: presentations/intro/intro_linux.pdf
+  slides: ../presentations/intro/intro_linux.pdf
   # notes : https://anassbelcaid.github.io/CS311/overview/
   # notes  : intro
   readings:
@@ -14,7 +14,7 @@
   homework:
     # <a href="https://anassbelcaid.github.io/CS311/feetWet/"> Installation Linux </a>
     # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
-    <a href="http://127.0.0.1:4000/installation/"> Installation Linux </a>
+    <a href="https://anassbelcaid.github.io/GIIA24/installation/"> Installation Linux </a>
 
  
 
@@ -86,25 +86,33 @@
 
 
   homework:
+    - <a href="http://127.0.0.1:4000/shell01/"> commandes basiques. </a>
+
+- date: F 31/04
+  lecturer:
+  title: >
+    <strong> Commandes basiques II</strong>
+  slides: ../presentations/shell02/shell02.pdf
+  video: 
+  notes: 
+  readings:
+    - <a href="https://www.syloe.com/utiliser-vim-guide/" target="_blank"> Guide simple vim </a>
+    - <a href="https://www.malekal.com/exemples-utiliser-commande-head/"> Guide utilisation head </a>
+    - <a href="https://fr.wikipedia.org/wiki/Sort_(Unix)"> Commande sort</a>
+    - <a href="https://fr.acervolima.com/commande-uniq-sous-linux-avec-exemples/"> Commande uniq </a>
+
+  topics:
+    - Vim Intro
+    - Manipulation fichiers
+    - Recherche
+    - Tri
+
+  homework:
     # - <a href="https://anassbelcaid.github.io/CS311/colliding/"> Colliding Mices</a>
     - <a href="http://127.0.0.1:4000/shell01/"> commandes basiques. </a>
 
--
-# - 
-# # - date: F 09/20
-# #   lecturer:
-# #   title: >
-# #     <strong>REC: MC/TD learning</strong>
-# #   slides:
-# #   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d919305e-7778-4ee6-b4b7-aace0107e10a
-# #   notes:
-# #   readings:
-# #     # - Blundell et al. <a href="https://arxiv.org/abs/1505.05424" target="_blank">Weight Uncertainty in Neural Networks</a>
-# #     # - Kingma & Welling <a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes</a>
-# #     # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
-# #   logistics: <span class="deadline">HW1 due</span> <br>
-# #     <span class="event">HW2 out</span>
 
+- 
 # # - date: M 09/23
 # #   lecturer:
 # #   title: >

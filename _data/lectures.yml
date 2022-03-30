@@ -37,8 +37,8 @@
     -  Changer DE
     
   homework:
-    # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
-    <a href="http://127.0.0.1:4000/gnome/"> Installation Gnome </a>
+    <a href="https://anassbelcaid.github.io/GIIA24/gnome/"> Installation Gnome </a>
+    # <a href="http://127.0.0.1:4000/gnome/"> Installation Gnome </a>
 
  
 
@@ -62,8 +62,7 @@
     -  File System
     
   homework:
-    # <a href="https://anassbelcaid.github.io/GIAA24/installation/"> Installation Linux </a>
-    <a href="http://127.0.0.1:4000/filesystem/"> Système de fichiers. </a>
+    <a href="https://anassbelcaid.github.io/GIIA24/filesystem/"> Systeme de fichiers. </a>
 
 
 - date: F 31/04
@@ -86,7 +85,8 @@
 
 
   homework:
-    - <a href="http://127.0.0.1:4000/shell01/"> commandes basiques. </a>
+    # - <a href="http://127.0.0.1:4000/shell01/"> commandes basiques. </a>
+    <a href="https://anassbelcaid.github.io/GIIA24/shell01/"> Commandes basiques. </a>
 
 - date: F 07/05
   lecturer:
@@ -108,8 +108,8 @@
     - Tri
 
   homework:
-    # - <a href="https://anassbelcaid.github.io/CS311/colliding/"> Colliding Mices</a>
-    - <a href="http://127.0.0.1:4000/shell02/"> commandes basiques. </a>
+  - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
+
 
 
 - 

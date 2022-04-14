@@ -111,5 +111,29 @@
   - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
 
 
+- date: F 14/05
+  lecturer:
+  title: >
+    <strong> Shell programming I</strong>
+  slides: 
+  video: 
+  notes: /lectures/shellProg1/
+  readings:
+    - <a href="https://www.shell-tips.com/bash/math-arithmetic-calculation/#gsc.tab=0" target="_blank"> Math Arithmetic </a>
+    - <a href="https://www.geeksforgeeks.org/bc-command-linux-examples/"> Tutorial BC </a>
+    - <a href="https://www.thegeekstuff.com/2010/06/bash-conditional-expression/"> Bash conditional expression</a>
+    - <a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/"> Bash guide for beginner </a>
+
+  topics:
+    - Variables
+    - Scripts
+    - Scripts arguments
+    - Loops
+
+  homework:
+  # - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
+    - <a href="/bash01"> Shell scritping I. </a>
+
+
 
 - 

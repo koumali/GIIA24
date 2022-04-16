@@ -135,5 +135,26 @@
     - <a href="/bash01"> Shell scritping I. </a>
 
 
+- date: F 21/05
+  lecturer:
+  title: >
+    <strong> Shell programming II</strong>
+  slides: 
+  video: 
+  notes: /lectures/shellProg2/
+  readings:
+    - <a href="https://en.wikipedia.org/wiki/Pipeline_(Unix)" target="_blank"> Pipelines </a>
+    - <a href="https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/"> Tutorial on grep </a>
+    - <a href="https://regexr.com/"> Practice your regular expression</a>
+
+  topics:
+    - Streams
+    - Pipelines
+    - grep
+    - sed
+
+  homework:
+  # - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
+    - <a href="/bash01"> Shell scritping I. </a>
 
 - 

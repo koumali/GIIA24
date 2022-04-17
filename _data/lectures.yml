@@ -131,8 +131,7 @@
     - Loops
 
   homework:
-  # - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
-    - <a href="/bash01"> Shell scritping I. </a>
+  - <a href="https://anassbelcaid.github.io/GIIA24/bash01/"> Shell Scripting I. </a>
 
 
 - date: F 21/05
@@ -154,7 +153,7 @@
     - sed
 
   homework:
-  # - <a href="https://anassbelcaid.github.io/GIIA24/shell02/"> Plus de commandes. </a>
-    - <a href="/bash02"> Shell scritping II. </a>
+  - <a href="https://anassbelcaid.github.io/GIIA24/bash02/"> Shell scripting II. </a>
+    # - <a href="/bash02"> Shell scritping II. </a>
 
 - 

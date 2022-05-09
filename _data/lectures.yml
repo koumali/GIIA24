@@ -156,4 +156,26 @@
   - <a href="https://anassbelcaid.github.io/GIIA24/bash02/"> Shell scripting II. </a>
     # - <a href="/bash02"> Shell scritping II. </a>
 
+
+
+- date: F 28/05
+  lecturer:
+  title: >
+    <strong> Processus</strong>
+  slides: 
+  video: 
+  notes: /lectures/processus/
+  readings:
+    - <a href="https://www.guru99.com/managing-processes-in-linux.html" target="_blank"> Tutorial on processes </a>
+    - <a href="https://www.softprayog.in/programming/signals-in-linux"> Tutorial on signals </a>
+
+  topics:
+    - processes
+    - signals
+    - orphans
+
+
+  homework:
+  - <a href="https://anassbelcaid.github.io/GIIA24/bash02/"> Shell scripting II. </a>
+    # - <a href="/bash02"> Shell scritping II. </a>
 - 

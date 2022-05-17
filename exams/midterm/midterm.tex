@@ -1,0 +1,159 @@
+\documentclass[palatino,code]{ensaexam}
+
+\usepackage{minted}
+\usepackage{dirtree}
+% \setlength{\DTbaselineskip}{20pt}
+\DTsetlength{1em}{3em}{0.5em}{1pt}{3pt}
+\begin{document}
+\ModuleName{Introduction a Linux}
+\ExamCode{GIIA24}
+\ExamPeriod{Spring 2022}
+\TimeAllowed{60}
+\Logo{
+\begin{center}
+  \includegraphics[width=3cm, height=3cm]{ENSA-SAFI.png}
+\end{center}
+}
+\Instructions{
+  \begin{itemize}
+    \item Vous avez {\bf\TheTimeAllowed\; minutes}. 
+    \item Vérifier que vous disposez de toutes les pages. 
+    \item L'échange d'outils est strictement \textbf{interdit}.
+  \end{itemize}
+  
+}
+\MakeHeading
+\vspace*{1cm}
+
+%% For questions use the command 
+%% \begin{questions} 
+%% \questoin[grade]
+%% \end{questions}
+
+
+\begin{questions}
+% Questions de cours {{{ %
+\titledquestion{Théorie}
+\begin{parts}
+  \part[1] Donner la  définition de \textbf{Linux BSD}. 
+  \part[2] Donner les quatre principes du \textbf{logiciels libres}.
+  \part[1] Donner deux fonctionnalités principales d'un \textbf{gestionnaire de
+  session}.
+  \part[1] Quel est le nom du service responsable d'affichage graphique dans
+  Linux.
+\end{parts}
+
+% }}} Questions de cours %
+\vspace*{1cm}
+% Arborescence {{{ %
+\titledquestion{Arborescence}
+Dans cet exercice, on cherche a créer l'arborescence suivante:\\
+
+  \dirtree{%
+    .1 Disque.
+    .2 Marie.
+    .3 Octobre.
+    .4 devoir.tex.
+    .3 Septembre.
+    .4 devoir2.tex.
+    .3 Physique.
+    .4 devoir3.tex.
+    .2 Pierre.
+    .3 headers.
+    .4 ball.hpp.
+    .4 player.hpp.
+    .3 srcs.
+    .4 ball.cpp.
+    .4 player.cpp.
+    .3 Makefile.
+  }
+
+\begin{parts}
+  \part[2] Donner les commandes le contenu du dossier \textbf{Disque}. 
+  \part[1] Quelle est la commandes pour afficher ce contenu sans les fichier
+  fichiers d'extensions \textbf{.tex, .cpp et .hpp}.
+  \part[1] Afficher le contenu de ce dossier par ordre \textbf{décroissant} de
+la \textbf{date de modification}.
+\part[1] Donner la commande pour le fichier \texttt{devoir.tex}  dans le dossier
+\textbf{srcs}.
+\end{parts}
+
+\vspace*{1cm}
+
+% }}} Arborescence %
+% Commands I {{{ %
+% test the following commands
+%   find ,  locate , date, history
+\titledquestion{Commandes I}
+
+On suppose que vous avec un projet appelle \textbf{Gestion Classes} qui gère
+les notes et les informations d'une classe. Ce dossier contient des dossiers de
+structurations et des fichiers \texttt{java} et des fichiers de configurations.
+
+\begin{parts}
+  \part[1] Donner la commande qui vous donne le  \textbf{ nombre de dossiers}  de ce
+  projet.
+  \part[1] Vous savez que ce projet contient un fichier \textbf{java} qui commence avec
+  \textbf{student}, donner la commande pour afficher le chemin de ce fichier.
+  \part[2] Aussi vous informe qu'il y as un fichier qui s'appelle
+  \texttt{studentsDates.txt} qui contient sur \textbf{chaque ligne} la date de
+  naissance d'un étudiant.
+  \begin{itemize}
+    \item Donner la commande pour trouver ce fichier.
+    \item Modifier votre ancienne commande pour donner le nombre des étudiants.
+  \end{itemize}
+  \part[2] Donner la commande pour afficher le nom des mois de naissance
+  (\textbf{sans répétition}) de tous les étudiants.
+  Par exemple si ce fichier contient les trois dates:
+  \begin{verbatim}
+   2019-06-12
+   2020-05-05   
+   2020-06-10
+   2019-05-31
+   2020-05-05   
+  \end{verbatim}
+  
+  La commande affichera 
+  \begin{verbatim}
+   Mai 
+   Juin
+  \end{verbatim}
+ Puisque ces les deux mois disponibles. 
+\end{parts}
+\newpage
+% }}} Commands I %
+% Commandes II {{{ %
+\titledquestion{Commandes II}
+Une compagnie de ventre d'articles sportifs enregistre ces achats dans un fichier
+\textbf{csv}(comma separated values). Le fichier contient le nom des
+articles vendus avec leur catégories.  Un exemple de fichier est:
+
+\begin{verbatim}
+ haltere,Musculation,34
+ Skateboar,Pied,104
+ Barre a disque,Musculation,80
+ gants de box,protection,90
+ .
+ .
+ .
+\end{verbatim}
+
+
+La premier colonne représente le nom du l'article par exemple \texttt{haltere},
+la deuxième est la catégorie de l'article comme \texttt{Musculation} et
+finalement la troisième est le nombre de vente \texttt{34}.
+
+\begin{parts}
+  \part[2] Donner la commande pour afficher les articles tries selon l'ordre
+  décroissant de leurs nombre de vente.
+  \part[2] Donner la nom des  \textbf{cinq} articles les plus vendues.
+\end{parts}
+
+
+% Uniq and sort 
+% }}} Commandes II %
+\end{questions}
+ 
+ 
+\end{document}
+

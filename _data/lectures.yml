@@ -117,7 +117,7 @@
     <strong> Shell programming I</strong>
   slides: 
   video: 
-  notes: /lectures/shellProg1/
+  notes: /shellProg2/
   readings:
     - <a href="https://www.shell-tips.com/bash/math-arithmetic-calculation/#gsc.tab=0" target="_blank"> Math Arithmetic </a>
     - <a href="https://www.geeksforgeeks.org/bc-command-linux-examples/"> Tutorial BC </a>

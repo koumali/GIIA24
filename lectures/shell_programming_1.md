@@ -3,7 +3,7 @@ layout:  post
 title: Shell programming I
 description:  An introduction to writing scripts in shell.
 date: 2022/04/24
-permalink: /shellProg2/ 
+permalink: /shellProg1/ 
 lecturers:
   - name:  Anass Belcaid
 ---

@@ -65,7 +65,7 @@ Variables names can contain a combination of letters and the underscore "_". **A
 ```shell
 greeting='Hello World!'  # good assignement
 
-price=14              # Will give an error
+price=14              # good assignement
 ```
 
 ### Declaring variables
@@ -92,7 +92,7 @@ Once it's declared, we could **reference** this variables using the `$` operator
 
 ```shell
 price=5
-echo  "The price of my product is $price \$
+echo  "The price of my product is $price \$"
 ```
 > Remark that we used the **escape** character **\** to print the $.
 
